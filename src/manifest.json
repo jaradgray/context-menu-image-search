@@ -1,6 +1,6 @@
 {
     "name": "Search for Image",
-    "description" : "Seach for an image by right-clicking it.",
+    "description" : "Search for an image by right-clicking it.",
     "version": "1.0.0",
     "manifest_version": 2,
 
