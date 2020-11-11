@@ -3,13 +3,21 @@
 browser.contextMenus.create({
     id: "image-search-tineye",
     title: "Image Search via TinEye",
-    contexts: ["image"]
+    contexts: ["image"],
+    icons: {
+        "16": "images/tineye-16.png",
+        "32": "images/tineye-32.png"
+      }
 });
 
 browser.contextMenus.create({
     id: "image-search-google",
     title: "Image Search via Google",
-    contexts: ["image"]
+    contexts: ["image"],
+    icons: {
+        "16": "images/google-16.png",
+        "32": "images/google-32.png"
+      }
 });
 
 
