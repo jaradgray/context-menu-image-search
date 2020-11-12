@@ -1,21 +1,21 @@
 // Create context menu items
 
 browser.contextMenus.create({
-    id: "image-search-tineye",
-    title: "Image Search via TinEye",
+    id: "image-search-google",
+    title: "Google",
     contexts: ["image"],
     icons: {
-        "16": "images/tineye-16.png",
-        "32": "images/tineye-32.png"
+        "16": "images/google-all_sizes.svg"
       }
 });
 
 browser.contextMenus.create({
-    id: "image-search-google",
-    title: "Image Search via Google",
+    id: "image-search-tineye",
+    title: "TinEye",
     contexts: ["image"],
     icons: {
-        "16": "images/google-all_sizes.svg"
+        "16": "images/tineye-16.png",
+        "32": "images/tineye-32.png"
       }
 });
 
