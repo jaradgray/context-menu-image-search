@@ -1,6 +1,6 @@
 {
-    "name": "Search for Image",
-    "description" : "Search for an image by right-clicking it.",
+    "name": "Context Menu Image Search",
+    "description" : "Adds an item to the context menu of images to perform a reverse image search using the most popular search engines.",
     "version": "1.0.0",
     "manifest_version": 2,
 
