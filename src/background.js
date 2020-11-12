@@ -15,8 +15,7 @@ browser.contextMenus.create({
     title: "Image Search via Google",
     contexts: ["image"],
     icons: {
-        "16": "images/google-16.png",
-        "32": "images/google-32.png"
+        "16": "images/google-all_sizes.svg"
       }
 });
 
