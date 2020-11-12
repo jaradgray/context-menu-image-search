@@ -5,12 +5,12 @@
     "manifest_version": 2,
 
     "icons": {
-        "16": "images/icon_16.png",
-        "32": "images/icon_32.png",
-        "48": "images/icon_48.png",
-        "64": "images/icon_64.png",
-        "96": "images/icon_96.png",
-        "128": "images/icon_128.png"
+        "16": "images/icon-all_sizes.svg",
+        "32": "images/icon-all_sizes.svg",
+        "48": "images/icon-all_sizes.svg",
+        "64": "images/icon-all_sizes.svg",
+        "96": "images/icon-all_sizes.svg",
+        "128": "images/icon-all_sizes.svg"
     },
 
     "permissions": ["contextMenus"],
